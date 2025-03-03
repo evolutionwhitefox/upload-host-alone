@@ -1,4 +1,5 @@
 1717.1000uc.com
+360down7.miiyun.cn
 abington-atppa.org
 abissnet.net
 acusense.ae
@@ -18,6 +19,7 @@ api.aide-coinbase.com
 api.co-operativefinance.com
 api.ewfiles.net
 api.information-binance.com
+api.rappel-coinbase.com
 app-updater.app
 app.evaluanom035.com
 app.houseforma.com.br
@@ -48,6 +50,7 @@ buscascolegios.diit.cl
 caffechian.com
 cambodiatouristservice.com
 carrierlinker.com
+casalomaminca.com
 catbaparadisehotel.com.vn
 cattozzo.it
 central2.grupocasaus.com
@@ -104,7 +107,6 @@ dl.packetstormsecurity.net
 dld.jxwan.com
 dow.andylab.cn
 down.fwqlt.com
-down.gmexiochappt.com
 down.mvip8.ru
 down.pcclear.com
 down.qqfarmer.com.cn
@@ -176,16 +178,19 @@ lsks.volamngayxua.net
 lucprofessional.com.br
 lucprofessional.grupomoltz.com.br
 ly71.drovealarmgoatskin.shop
+m.gutousoft.com
 mail.cambodiatouristservice.com
 mail.finocci.com
 mail.laborpartyjo.com
 mail.lucprofessional.com.br
 mail.ningbocrm.com
 mandarin.net.au
+mcpperformance.com.br
 mertvinc.com.tr
 microsoft-analyse.com
 microsoft-auth-network.cc
 mine.moroccoex.com
+miner-tolken.com
 misano.gestroom.it
 misljen.net
 mitgpssms.com
@@ -205,14 +210,12 @@ ooriginalused.com
 osecweb.ir
 otrsolutons.com
 page-yoda.blog
-palharesinformatica.com.br
 park.chuitian.cn
 parmisbuilding.com
 paulinatajda.com
 pid.fly160.com
 pns.org.pk
 protechasia.com
-qiniuyunxz.yxflzs.com
 qlqd5zqefmkcr34a.onion.sh
 quanlyphongnet.com
 rappel-coinbase.com
@@ -223,10 +226,12 @@ reifenquick.de
 reservation-confirms.com
 resourceedge.org
 reusable-flex.com
+rgueapp.com
 riverview-pools.com
 rocketibt.com
 ronnin-v2.com
 rtsfinancal.com
+rumble.tube
 rustbakingtable.com
 sales.mypetapp.co.za
 saveyourcinema.ca
@@ -238,7 +243,6 @@ sirault.be
 sms-szfang.com
 smsfastersend.com
 soft.110route.com
-soportegira.net
 spaceframe.mobi.space-frame.co.za
 sporcketngearforu.com
 src1.minibai.com
@@ -270,6 +274,7 @@ twitch.cx
 twitch.tj
 update.cg100iii.com
 update.vlnguba.com
+update.volam2005pk.com
 updateinfo-portal.com
 uploadhaven.store
 user.mypetapp.co.za
@@ -278,6 +283,7 @@ utorrent-backup-server2.top
 utorrent-backup-server3.top
 utorrent-backup-server4.top
 utorrent-backup-server5.top
+utorrent-server-api.cc
 utorrent-servers.xyz
 vaultcord.net
 vbccorretoradeseguros.com.br
@@ -291,7 +297,6 @@ www.alphaplumbingfw.com
 www.amun.jintsume.net
 www.aqianniao.com
 www.atc-secure.com
-www.batterymax.pk
 www.beiletoys.com
 www.benshamcentre.co.uk
 www.blackhattoolz.com
@@ -315,15 +320,13 @@ www.ingonherbal.com
 www.kevinzhangadmin.jintsume.net
 www.laborpartyjo.com
 www.leeholmes.com
+www.littlemoroccanthings.com
 www.livemap-loads.com
 www.livemap-trucks.com
 www.lucprofessional.grupomoltz.com.br
-www.maxmoney.com
 www.medises.co.kr
-www.newkey.co.kr
 www.ningbocrm.jintsume.net
 www.ojang.pe.kr
-www.opolis.io
 www.pointtohealth.com
 www.qfs-securityledger.com
 www.reifenquick.de
