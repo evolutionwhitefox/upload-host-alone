@@ -5569,6 +5569,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.viture.dev
 analytics.vixcloud.co
 analytics.vortexscans.com
 analytics.warnertv.fr
@@ -22430,6 +22431,7 @@ metrics.northwesternmutual.com
 metrics.norvir.com
 metrics.nowtv.com
 metrics.nrma.com.au
+metrics.nsureapi.com
 metrics.ntnews.com.au
 metrics.nu.nl
 metrics.nutraingredients-asia.com
