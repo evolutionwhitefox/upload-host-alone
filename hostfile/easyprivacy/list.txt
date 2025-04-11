@@ -4269,7 +4269,6 @@ acquisition.klm.com
 acridangle.com
 acridtwist.com
 acro.egghead.link
-acs.woolworths.com.au
 acsbapp.com
 act-on-marketing.advancedsolutionsplm.com
 act-on-marketing.asidesignsoftware.com
@@ -37455,6 +37454,7 @@ track.kyoads.com
 track.leady.cz
 track.lesmills.com
 track.list-finder.jp
+track.livasoft.com.tr
 track.mailerlite.com
 track.marketingcube.com.au
 track.mentor.com
@@ -37592,6 +37592,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
+tracker.personizely.net
 tracker.prod.ams3.k8s.hyperia.sk
 tracker.prom.ua
 tracker.providence.org
@@ -41364,7 +41365,6 @@ xmyvhu.soxo.pl
 xnukcp.cpcompany.com
 xovq5nemr.com
 xp.allianz.de
-xp.apple.com
 xp2023-pix.s3.amazonaws.com
 xpcpmr.gsm55.com
 xps.huk.de
