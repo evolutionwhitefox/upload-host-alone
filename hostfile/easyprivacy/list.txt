@@ -8349,6 +8349,7 @@ cdn.ravm.tv
 cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
+cdnlogs.org
 cdnral.com
 cdns.brsrvr.com
 cdnwidget.com
@@ -39768,6 +39769,7 @@ virtualvincent.com
 vision.cbre.com.au
 vision.cbresi.com.au
 visit-prod-us.occa.ocs.oraclecloud.com
+visit-server.inmobi-choice.io
 visit.adelaide.edu.au
 visit.asb.co.nz
 visit.atea.fi
