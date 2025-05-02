@@ -5475,6 +5475,7 @@ analytics.runpath.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.scorpion.co
 analytics.seagate.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -6772,6 +6773,7 @@ as.wieistmeineip.de
 as.yomonda.de
 as3.io
 asamgd.rossmann.de
+asanalytics.booking.com
 asap-systems.actonservice.com
 asc.asc-net.com
 asc.e-conolight.com
@@ -9435,6 +9437,7 @@ count.xxxssk.com
 count.yandeg.ru
 count5.pconline.com.cn
 counter.1i.kz
+counter.asobeans.jp
 counter.blogoscoop.net
 counter.bloke.com
 counter.cam-content.com
@@ -33141,6 +33144,7 @@ stanburns.actonservice.com
 standingnest.com
 standingsack.com
 standtrouble.com
+stape.brascast.com
 starchild.odencat.com
 starget.aircanada.com
 starget.airmiles.ca
@@ -35224,6 +35228,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tagger.ope.scmp.com
 tagger.opecloud.com
+tagging.shiftdigitalapps.io
 tagging.sliponline.nl
 tagging.steelseries.com
 tagm.eduscho.at
@@ -39923,6 +39928,7 @@ vpf4.euskaltelofertas.com
 vphsiv.gsshop.com
 vpivyf.meshki.com.au
 vpl.voyage-prive.pl
+vplayeranalytics.vidgyor.com
 vpmdiq.propertyfinder.qa
 vppst.iltrovatore.it
 vpuuzj.schnullireich.de
@@ -40135,6 +40141,7 @@ wealth.informabi.com
 wealthcarecapital.actonservice.com
 wearbasin.com
 weare.ballymoregroup.com
+web-perf.booking.com
 web-trace.ksapisrv.com
 web-tracker.smsbump.com
 web.ajostg.cfs.com.au
