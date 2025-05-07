@@ -20993,6 +20993,7 @@ marketing.tandemdiabetes.com
 marketing.taos.com
 marketing.tarheelpaper.com
 marketing.tas.business
+marketing.taskus.com
 marketing.tba.group
 marketing.tcgrecycling.com
 marketing.teamspirit.uk.com
@@ -39086,6 +39087,7 @@ u652.myplainview.com
 u927.sfgate.com
 ua.indianexpress.com
 uaaooa.stansberryresearch.com
+uaas.yandex.ru
 uaemarketing.sedgwick.com
 ualkzq.moobel1.ee
 uaqcui.tennis-point.fr
