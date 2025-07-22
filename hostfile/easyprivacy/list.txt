@@ -32668,7 +32668,6 @@ sstats.backcountry.com
 sstats.bbt.com
 sstats.belgiantrain.be
 sstats.bever.nl
-sstats.bitdefender.com
 sstats.bnpparibasfortis.be
 sstats.bonappetit.com
 sstats.bookhostels.com
@@ -33839,6 +33838,7 @@ stats.southswindon-pc.gov.uk
 stats.spark.co.nz
 stats.sparkloop.app
 stats.splinder.com
+stats.spreadsimple.com
 stats.spreadtheworld.net
 stats.sprune.com
 stats.sqlteam.com
@@ -35040,6 +35040,7 @@ tags.op-palvelut.fi
 tags.pw.adn.cloud
 tags.soloway.ru
 tags.stepstone.com
+tagservice.maximus.mobkoi.com
 tagtracking.vibescm.com
 takigx.tourneau.com
 takingbackjuly.com
