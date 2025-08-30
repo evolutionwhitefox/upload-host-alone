@@ -5219,6 +5219,7 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.dvidshub.net
+analytics.egdata.app
 analytics.egernsund.com
 analytics.egernsund.de
 analytics.eggoffer.com
@@ -5475,6 +5476,7 @@ analytics.shop.hisense.com
 analytics.shopncaasports.com
 analytics.shorte.st
 analytics.shorthand.com
+analytics.shutterstock.com
 analytics.sideprojectsoftware.com
 analytics.silktide.com
 analytics.simplii.com
@@ -9857,6 +9859,7 @@ d1tbj6eaenapdy.cloudfront.net
 d1tqsoh7s4xjz9.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d1yz9u4jf6oqub.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d1z9vm58yath60.cloudfront.net
 d20kffh39acpue.cloudfront.net
@@ -14979,6 +14982,7 @@ highfalutinbox.com
 highfalutinhoney.com
 highlights-schadenmanager.schwacke.de
 highlights-schwackenet.schwacke.de
+hightouch-events.com
 highway.cablecar.sph.com.sg
 hijxfm.gaspedaal.nl
 hikingbars.com
@@ -28563,6 +28567,7 @@ sitectlyst.saksfifthavenue.com
 sitedataprocessing.com
 siteintercept.allegiancetech.com
 sitel.actonservice.com
+siteperformancetest.net
 sites.campaignmgr.cisco.com
 sites.groo.co.il
 sites.siemens.com
@@ -37286,6 +37291,7 @@ track.f1store.formula1.com
 track.ferrari.com
 track.ferraridealers.com
 track.financialfairness.org.uk
+track.fusionmedia.io
 track.gleeph.net
 track.go.shokubai.co.jp
 track.healthcare-distribution.com
