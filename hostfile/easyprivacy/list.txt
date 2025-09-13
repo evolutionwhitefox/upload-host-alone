@@ -8857,6 +8857,7 @@ collector.betway.be
 collector.betway.com
 collector.cint.com
 collector.clareity.net
+collector.ex.co
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -11779,6 +11780,7 @@ education.moodybible.org
 education.ricoh.ch
 education.ricoh.fr
 education.velocify.com
+educationcar.com
 educationlink.clear360.com
 educontinua.javeriana.edu.co
 educrated.com
@@ -13298,6 +13300,7 @@ floweryfact.com
 floweryflavor.com
 floweryoperation.com
 flpwto.lohaco.jp
+fls-na.amazon.com
 fltuyy.philippemodel.com
 fluentco.actonservice.com
 flushingbeast.com
@@ -16037,6 +16040,7 @@ ineed2s.ro
 inencr.woodhouseclothing.com
 inetprocess.actonservice.com
 infamousstream.com
+infinityhedge.com
 infinityid.condenastdigital.com
 infisecure.com
 influencer.picklebutnotcucumber.com
@@ -19112,6 +19116,7 @@ logs-partners.coupang.com
 logs.51cto.com
 logs.adplay.ru
 logs.animaapp.com
+logs.betterstack.com
 logs.chatboost-cv.algoage.co.jp
 logs.dynamicauth.com
 logs.hotstar.com
@@ -21157,6 +21162,7 @@ matsubun.matsubun.com
 matt.mercadolivre.com.br
 matytt.tone.ne.jp
 maui.shakaguide.com
+maxclientstatapi.com
 maxcruisers.com
 maxepv.com
 maxtat.55truck.com
@@ -22184,6 +22190,7 @@ metrics.ifc.org
 metrics.iij.ad.jp
 metrics.ikea.com
 metrics.illinois.gov
+metrics.imdb.com
 metrics.industryweek.com
 metrics.inet.fi
 metrics.infiniti.com
