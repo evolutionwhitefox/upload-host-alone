@@ -2670,6 +2670,7 @@ trackertrak.com
 trackingboost.com
 tracklyfast.com
 tradestrategy.substack.com
+tradingsview.net
 trafempire.com
 traffic-go.com
 trafficjunction.com
@@ -2864,7 +2865,6 @@ web3projects.substack.com
 webmailrupdatekorea.firebaseapp.com
 webmailupdating.wixsite.com
 webnotif.online
-webogram.org
 webogram.ru
 webpublic.substack.com
 webpushcloud.top
