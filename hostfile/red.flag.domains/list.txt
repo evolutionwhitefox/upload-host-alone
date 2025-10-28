@@ -3808,6 +3808,7 @@ assurance-resilie-pascher.fr
 assurance-sante-2024.fr
 assurance-sante-ameli.fr
 assurance-sante-publique.fr
+assurance-sante-remboursement.fr
 assurance-santeameli.fr
 assurance-sociale.fr
 assurance-soin.fr
@@ -4977,6 +4978,7 @@ billets-montsaintmichel.fr
 billetschapellesixtine.fr
 billetsconcert.fr
 billetscouperugby.fr
+billetterie-ayanakamura.fr
 billetterie-blackpink2025worldtour.fr
 billetterie-concert.fr
 billetterie-cowboycartertour.fr
@@ -29670,6 +29672,7 @@ univamiens.fr
 univartois.fr
 univbordeaux.fr
 univbrest.fr
+univcatholyon.fr
 univcorse.fr
 unive-cotedazur.fr
 unive-lille.fr
