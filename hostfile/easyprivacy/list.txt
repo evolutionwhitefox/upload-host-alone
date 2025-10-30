@@ -8537,6 +8537,7 @@ clevertapsendgrid.branch.rocks
 clgserv.pro
 clhzet.ubierzswojesciany.pl
 click-ext.anxa.com
+click-performance.assets.rndtech.de
 click-staging.food.mercato.com
 click-staging.getdreams.co
 click-testing.moselo.com
@@ -14872,6 +14873,7 @@ hal.courrierinternational.com
 halcyoncanyon.com
 halcyonsculpture.com
 halo.actonservice.com
+halocolor.com
 haltingbadge.com
 haltingdivision.com
 halvwk.jetcost.ie
@@ -17083,6 +17085,7 @@ iot-business.vodafone.com
 iot.informaengage.com
 iotapool.com
 ioxqdp.leatherology.com
+ip-check-perf.radar.cloudflare.com
 ip.chipestimate.com
 ip.cliphunter.com
 ip.lovely-app.com
@@ -32315,6 +32318,7 @@ speedtrap.shopdirect.com
 speedyfox.io
 speedyrhino.co
 speee-ad.akamaized.net
+spellingthoughts.com
 spellknight.com
 spellmist.com
 spellsalsa.com
@@ -34672,6 +34676,7 @@ sysmon.kakaku.com
 systancia-scp.actonservice.com
 system-beta.b-cdn.net
 system.nefiber.com
+systemssummit.com
 sytuzk.nissanvimontlaval.com
 syvvsv.artex.com.br
 syycwa.barcelo.com
@@ -40528,6 +40533,7 @@ wildwoodavenue.com
 win.staticstuff.net
 wirecomic.com
 wiredforcoffee.com
+wirenewsletter.com
 wirjoi.meetsmore.com
 wirypaste.com
 wisedotcom.com
