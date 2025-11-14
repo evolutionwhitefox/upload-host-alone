@@ -343,6 +343,7 @@ blockcheck.pages.dev
 blockchecker-8ka.pages.dev
 blockchecker5.pages.dev
 blockchecker6.pages.dev
+blocklook.pages.dev
 blue-could.com
 blue-softs.com
 blue-uranai.com
@@ -868,6 +869,7 @@ for-tg.com
 for20-coco.com
 foretheure.jp
 forimg.net
+form694847.icu
 formatch.co.jp
 formspark.rongviet.com.vn
 fortune-crystal.com
@@ -1458,6 +1460,7 @@ lokuracristiana.com
 lone1y.com
 lonely.beauty
 longchampblackfriday.com
+lookblock.pages.dev
 lossless-scaling.download-fast.com
 lot.luck-fortune.com
 loto-4x.com
