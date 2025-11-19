@@ -8188,6 +8188,7 @@ campaign.bbmbonnier.se
 campaign.bpost.be.bpost.be
 campaign.csrxp.org
 campaign.daimlertruck.com
+campaign.fbot.me
 campaign.fr.mazda.be
 campaign.glory-global.com
 campaign.hach.com.cn
@@ -9383,6 +9384,7 @@ copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
 copyvibes.com
+coralcranes.com
 coralreverie.com
 core-apps.b-cdn.net
 corgibeachday.com
@@ -10662,6 +10664,7 @@ dd.nytimes.com
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
+dd.viator.com
 dd6zx4ibq538k.cloudfront.net
 ddioce.wolverine.com
 ddlbr.timesclub.co
@@ -13355,6 +13358,7 @@ flipt.actonservice.com
 flixgvid.flix360.io
 flnkmj.hometogo.fr
 flog.pressplay.cc
+floodedpixel.com
 floodprincipal.com
 floorforce.actonservice.com
 flotech.actonservice.com
