@@ -9392,6 +9392,7 @@ cookies.siemens-energy.com
 cookies.siemens-healthineers.com
 cookies.siemens.com
 cookies.wpcarey.com
+cookiestorybook.com
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
 cooking-app.lkk.com
@@ -9405,6 +9406,7 @@ copperstills.net
 copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
+copytweaks.com
 copyvibes.com
 coralcranes.com
 coralreverie.com
@@ -26803,6 +26805,7 @@ ru-ru.siemensplmevents.com
 rudder-tracking.rudderstack.com
 rugttt.robinson.com
 ruhpbn.zhigaojixie.com
+rum-collector.leaderint.workers.dev
 rum-ingress-coralogix.com
 rum.api.intuit.com
 rum.azion.com
@@ -35751,6 +35754,7 @@ telemetry.sdk.inmobi.com
 telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
+telemetry.svc.transifex.net
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.transcend.io
@@ -40328,6 +40332,7 @@ web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 web-perf.booking.com
 web-trace.ksapisrv.com
 web-tracker.smsbump.com
+web-vitals-script.leaderint.workers.dev
 web.ajostg.cfs.com.au
 web.ajostg.colonialfirststate.com.au
 web.akademiai.hu
