@@ -8260,6 +8260,7 @@ cannonchange.com
 canvasandsocks.com
 caowuq.babyliss-romania.ro
 capablecup.com
+capi.connatix.com
 capping.sirius.press
 capplanllc.actonservice.com
 capriciouscorn.com
@@ -9608,6 +9609,7 @@ cs.analytics.lego.com
 cs.bankmillennium.pl
 cs.coopeservidores.fi.cr
 cs.hot.net.il
+cs.media.net
 cs.nakanohito.jp
 cs.nexttv.co.il
 cs.zg-api.com
@@ -13525,6 +13527,8 @@ forms.xtralis.com
 forms2.vistage.com
 forpci3.siege-corp.com
 fortunatemark.com
+forwardslashetc.com
+fossilzero.com
 fourier.taobao.com
 fourmtagservices.appspot.com
 fourpawsahead.com
@@ -39001,7 +39005,6 @@ trvonu.k-manga.jp
 trx-cdn.zip.co
 trx.zip.co
 trx3.famousfix.com
-try.abtasty.com
 try.blackboard.com
 try.jaranda.kr
 try.joonapp.io
