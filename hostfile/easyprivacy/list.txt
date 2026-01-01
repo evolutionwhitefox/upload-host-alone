@@ -8747,6 +8747,7 @@ clrt.ai
 cls7.theushuaiaexperience.com
 cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
+cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
 clyexf.decathlon.ie
@@ -14895,6 +14896,7 @@ gtm.diamond.jp
 gtm.lercio.it
 gtm.mandesager.dk
 gtm.wise.com
+gtm.xtb.com
 gtmfsstatic.getgoogletagmanager.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
@@ -19810,6 +19812,8 @@ mandant.net.anwalt.de
 mandrillapp.zola.com
 mantrafox.com
 manufacturing.autodeskcommunications.com
+manydiamonds.com
+manyfishes.com
 map.rockwellautomation.com
 mapbasin.com
 mapcommand.com
