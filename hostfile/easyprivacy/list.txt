@@ -5162,6 +5162,7 @@ analytics.bleacherreport.com
 analytics.blue
 analytics.boing.es
 analytics.bolavip.com
+analytics.bomiv.com
 analytics.boomerangtv.co.uk
 analytics.box.com
 analytics.boxlunch.com
@@ -24303,6 +24304,7 @@ ojm4.palladiumhotelgroup.com
 ojmxro.yatsan.com
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
+okaysurethat.com
 okhwxl.rnainc.jp
 oksiqv.styletread.com.au
 oktagv.immobilienscout24.at
@@ -24310,6 +24312,7 @@ okto1.spsglobal.com
 old.globalservices.arrow.com
 oldandindie.com
 oldfashionedoffer.com
+oldportcoffee.com
 olhqou.realsimple.com
 olklgn.jh-profishop.de
 olpmni.acer.com
@@ -37573,6 +37576,7 @@ track.bannedcelebs.com
 track.bestbuy.ca
 track.bestpornsites.tv
 track.biz.lguplus.com
+track.bomiv.com
 track.btdmp.com
 track.buyma.com
 track.cafu.com
