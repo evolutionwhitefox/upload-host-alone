@@ -5091,6 +5091,7 @@ analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
 analytics-hub.3plearning.com
 analytics-lgs.corebridgefinancial.com
@@ -8837,7 +8838,6 @@ cnpxwl.cheapcaribbean.com
 cns-service.actonservice.com
 cnsecurity.actonservice.com
 cnstats.cdev.eu
-cnstrc.com
 cnt.3dmy.net
 cnt.hd21.com
 cnt.iceporn.com
@@ -33271,6 +33271,7 @@ staging.refer.wagr.us
 stahhx.inversapub.com
 stahl.actonservice.com
 stakedances.com
+stakeschips.com
 stakingbasket.com
 stakingshock.com
 stakingsmile.com
