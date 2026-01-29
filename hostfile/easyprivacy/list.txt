@@ -4452,6 +4452,7 @@ adbsmetrics.thewhoo.com
 adc-js.nine.com.au
 adcontroll.com
 addictedattention.com
+addressfriend.com
 ade.deskstyle.info
 ade.googlesyndication.com
 ade.hirose-fx.co.jp
@@ -6900,6 +6901,7 @@ asttcp.vatera.hu
 asumi.shinobi.jp
 aswpsdkus.com
 asxxlo.interflora.es
+async-px-eu.dynamicyield.com
 async-px.dynamicyield.com
 at-cddc.actu-juridique.fr
 at-cdn.swisscom.ch
@@ -7624,6 +7626,7 @@ bluecore-email.branch.rocks
 blueeyedblow.com
 blueinfo.marugroup.net
 bluekai.com
+bluelionlabs.net
 bluelp.2ask.blue.com.hk
 bluemarblepayroll.actonservice.com
 bluemountains.actonservice.com
@@ -33810,6 +33813,7 @@ stats.flightsphere.com
 stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
+stats.fluorescent.co
 stats.fomo.com
 stats.fonecta.fi
 stats.frankfurterneuepresse.de
@@ -37859,6 +37863,7 @@ tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker-rec.smart-bdash.com
 tracker-remp.active.radio
+tracker-remp.premiumtimesng.com
 tracker-server.high-cdn.com
 tracker-v4.gamedock.io
 tracker.3dissue.com
