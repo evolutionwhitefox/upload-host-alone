@@ -13288,7 +13288,6 @@ fcpszk.telestream.net
 fcswcx.cyrillus.fr
 fculcz.joann.com
 fd.bawag.at
-fd.cleantalk.org
 fd.ivoclar.com
 fdbs.actonservice.com
 fdiinc.actonservice.com
@@ -24654,6 +24653,7 @@ oocrzh.byojet.com
 oopt.norauto.es
 ooqbml.tac-school.co.jp
 oossod.potterybarn.ae
+op-mobile.opera.com
 opalquill.com
 opbdps.bonprix.fi
 open-test.wynk.in
