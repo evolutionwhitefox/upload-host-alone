@@ -13584,6 +13584,7 @@ foxt.actonservice.com
 foxtinfo.foxt.com
 foxtrotdata.com
 fp-cdn.azureedge.net
+fp-flame.vercel.app
 fp-upload.dun.163.com
 fp.bizjournals.com
 fp.kakaku.com
@@ -37900,6 +37901,7 @@ tracker.gamemonkey.org
 tracker.gleanview.com
 tracker.grupanya.com
 tracker.hdtvcloud.com
+tracker.hollandandbarrett.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -40196,6 +40198,7 @@ visit.sendheirloom.com
 visit.tenplay.com.au
 visit.xchina.pics
 visitor-microservice.ext.p-a.im
+visitor-speed.com
 visitor.arabiancentres.com
 visitor.hotelex.cn
 visitor.novartisoncology.us
