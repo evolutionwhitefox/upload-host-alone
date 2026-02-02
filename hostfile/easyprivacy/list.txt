@@ -5402,6 +5402,7 @@ analytics.ml.homedepot.ca
 analytics.mlstatic.com
 analytics.mobile.yandex.net
 analytics.mondotv.jp
+analytics.morphe.software
 analytics.mouthshut.com
 analytics.moviepilot.de
 analytics.multithread.studio
@@ -5799,6 +5800,7 @@ api-websystems.landing.ni.com
 api.apiok.net.iberostar.com
 api.autopilothq.com
 api.bunzlaucastle.com
+api.croct.io
 api.digitalpiloten.org
 api.elliehuxtable.com
 api.fuck.education
@@ -8398,6 +8400,7 @@ cdjhcf.hometogo.es
 cdl.booksy.com
 cdl.lvsafe.io
 cdl2.booksy.com
+cdn-a.raptor.digital
 cdn-channels-pixel.ex.co
 cdn-eu.usefathom.com
 cdn-rum.ngenix.net
@@ -21697,6 +21700,7 @@ melodyglobe.com
 meltmilk.com
 member-app.rightwayhealthcare.com
 member.usenix.org
+membernook.com
 members.atomcomplete.com
 members.simplicity.coop
 membership.mortonarb.org
@@ -23527,6 +23531,7 @@ mortgage.leads360.com
 mortgage.velocify.com
 mosvnx.livup.com.br
 motion.kollmorgen.com
+motionarray.net
 motionflowers.com
 motionlessbelief.com
 motionlessmeeting.com
@@ -37948,6 +37953,7 @@ tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
 trackersimulator.org
+trackhorizon.nnmtools.com
 trackid.globoid.globo.com
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.bookzone.ro
