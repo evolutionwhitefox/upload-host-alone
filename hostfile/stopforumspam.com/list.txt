@@ -1036,6 +1036,7 @@
 24x7help.getperegrinate.click
 24x7help.hikehub.click
 24x7help.hotelhafenhamburg.click
+24x7help.hotelpost.click
 24x7help.openturnon.click
 24x7help.organictraveller.click
 24x7help.useswitchon.click
@@ -6177,6 +6178,7 @@ ardaq.ga
 ardaq.tk
 ardavin.ir
 ardesy.com
+ardnsyh.store
 ardsp.shop
 ardudi.ga
 ardudi.gq
@@ -12150,6 +12152,7 @@ capcut.pp.ua
 capcut.sbs
 capcut.site
 capcut.team
+capcut72.site
 capcuter.com
 capcuter.my.id
 capcutgw.cfd
@@ -12689,6 +12692,7 @@ cc.gatewaybayern.click
 cc.healthroutinenail.click
 cc.hikehub.click
 cc.jeannetripplehorn.click
+cc.openbillieholiday.click
 cc.pinn.biz.id
 cc.takeatripapp.click
 cc.these.cc
@@ -14285,6 +14289,7 @@ cloud-mail.id
 cloud-mail.net
 cloud-mail.top
 cloud-mining.info
+cloud-server.id
 cloud-temp.com
 cloud.9amail.top
 cloud.blatnet.com
@@ -44295,6 +44300,7 @@ nonvolatilmail.com
 nonzo.online
 noobf.com
 noobse.my.id
+noobsie.my.id
 noobtoobz.com
 nooklan.org
 noomlocs.com
@@ -44783,6 +44789,7 @@ nycthing.com
 nycvpn.com
 nyea.ru
 nyepi.us
+nyerem.in
 nyeschool.org
 nyfeel.com
 nyfhk.com
@@ -48968,6 +48975,7 @@ poverts.com
 povorotov.ru
 pow-pows.com
 powderdesk.com
+powell1.net
 power.fansbasetoken.com
 power.ruimz.com
 powerballtobog.com
@@ -53828,6 +53836,7 @@ saufoolbeachf.ga
 sauhasc.com
 saukprairiehealth.org
 saunders45.store
+saungadaid.biz.id
 saupecmay.ml
 sausetihenne.shop
 sautcuso.com
@@ -67533,6 +67542,7 @@ ynagjie-66.cc
 ynamedm.com
 ynamismmail.com
 ynaturalsl.com
+ynbzona.online
 yncyjs.com
 yndrinks.com
 ynhpgc.com
