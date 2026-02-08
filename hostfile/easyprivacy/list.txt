@@ -5250,6 +5250,7 @@ analytics.disneyplus.com
 analytics.distributednews.com
 analytics.dv.socure.io
 analytics.dvidshub.net
+analytics.editorialedomani.it
 analytics.egdata.app
 analytics.egernsund.com
 analytics.egernsund.de
@@ -14299,6 +14300,7 @@ go-usertrack-importer.pub.24ur.si
 go.17app.co
 go.4010.ru
 go.4sq.com
+go.absolventa.de
 go.accredible.com
 go.accumaxglobal.com.au
 go.acelisconnectedhealth.com
@@ -14329,6 +14331,7 @@ go.azets.dk
 go.azets.fi
 go.azets.no
 go.azets.se
+go.azubi.de
 go.backtest.io
 go.bandits.com
 go.bayshoresystems.com
@@ -23247,6 +23250,7 @@ metricssecure.luna.com
 metricssecure.nmfn.com
 metricssecure.northwesternmutual.com
 metricstur.www.svenskaspel.se
+metrik.freitag.de
 metrika.kontur.ru
 metrix.511tactical.com
 metrix.avon.uk.com
