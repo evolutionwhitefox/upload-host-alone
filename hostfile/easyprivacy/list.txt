@@ -10943,7 +10943,6 @@ dgztiz.conrad.se
 dh0c1bz67fuho.cloudfront.net
 dhdaa.duke.edu
 dhkyrl.discountmags.com
-dhlsupplychain.dhl.com
 dhmdja.trueprotein.com.au
 dhplma.pontofrio.com.br
 dhsjpz.bugaboo.com
@@ -27667,6 +27666,7 @@ sandbox-connectlp.keysight.com
 sandbox-elq.keysight.com
 sandboxbid.com
 sandstrophies.com
+sandypocket.com
 sanl.champssports.ca
 sanl.champssports.com
 sanl.eastbay.com
@@ -40517,6 +40517,7 @@ we.kurly.com
 wealth.informabi.com
 wealthcarecapital.actonservice.com
 weare.ballymoregroup.com
+weatherbytes.net
 web-beacon.starii-rover.com
 web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 web-perf.booking.com
