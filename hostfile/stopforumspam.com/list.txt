@@ -14957,6 +14957,7 @@ comf.site
 comfort.beachflag.click
 comfort.beachhotelzoutelande.click
 comfort.carnivalday.click
+comfort.carolinensielrestaurants.click
 comfort.catchfoot.click
 comfort.celebrationapp.click
 comfort.cheaptrips.click
@@ -28491,6 +28492,7 @@ healthbroth.cam
 healthcare-con.com
 healthcareinsider.xyz
 healthcaremoon.com
+healthcareprivacy.click
 healthcareworld.live
 healthcareworld.online
 healthcheck.click
@@ -29178,6 +29180,7 @@ hj.co
 hj34dfn.site
 hjdosage.com
 hjev.com
+hjhvj.beer
 hjjw.com
 hjkcfa3o.com
 hjotmail.com
@@ -47367,6 +47370,7 @@ paw-patrol1.space
 pawdcast.info
 pawdicurespdq.com
 pawfullyfit.com
+pawgpt.nl
 pawmail.store
 pawsaquamation.biz
 pawtopup.com
@@ -65660,6 +65664,7 @@ webxios.pro
 webziliao.com
 wecare.flipapp.click
 wecare.gethike.click
+wecare.hotelcareer.click
 wecare.lapsuscalami.click
 wecare.meetflip.click
 wecare.religiousfestival.click
@@ -68307,6 +68312,7 @@ zaim-fart.ru
 zaim-fin.com
 zaim-online-na-kartu.su
 zaimu-24.ru
+zainapi.tech
 zainhub.web.id
 zairlinex.com
 zaixmeigy.my.id
