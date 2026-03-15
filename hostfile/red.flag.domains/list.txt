@@ -4587,8 +4587,6 @@ aviasmasters.fr
 aviation-civile-qouv.fr
 aviator-casino-game.fr
 aviator-casino.fr
-aviator-game-fr.fr
-aviatorslot-fr.fr
 avicenne-medical.fr
 avidenotifcation.fr
 avilis.fr
@@ -7483,7 +7481,6 @@ centreparc.fr
 centres-impots.fr
 centrury21.fr
 centurry21.fr
-century21-authentic.fr
 cepaccaisse-epargne.fr
 cepaccaisseepargne.fr
 cepal-caisse-epargne.fr
