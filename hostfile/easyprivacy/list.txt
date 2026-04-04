@@ -9528,6 +9528,7 @@ count.vidsrc.pro
 count.xxxssk.com
 count.yandeg.ru
 count5.pconline.com.cn
+counter-growthbook.minute-ly.com
 counter.1i.kz
 counter.asobeans.jp
 counter.blogoscoop.net
@@ -17307,7 +17308,6 @@ iot-business.vodafone.com
 iot.informaengage.com
 iotapool.com
 ioxqdp.leatherology.com
-ip-check-perf.radar.cloudflare.com
 ip.chipestimate.com
 ip.cliphunter.com
 ip.lovely-app.com
@@ -26933,6 +26933,7 @@ ro.aiwan4399.com
 roaddynamics.com
 roadwalks.com
 roamhousing.com
+roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
 rochelle.wantsext.me
@@ -36033,6 +36034,7 @@ telemetry.nav.no
 telemetry.navispherecarrier.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
+telemetry.portal.voltdeutschland.org
 telemetry.proton.me
 telemetry.reembed.com
 telemetry.ruthschris.com
