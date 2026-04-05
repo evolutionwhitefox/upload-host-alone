@@ -8436,6 +8436,7 @@ cdn-eu.usefathom.com
 cdn-rum.ngenix.net
 cdn.9gtb.com
 cdn.arcstudiopro.com
+cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
@@ -10048,6 +10049,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
@@ -12801,6 +12803,7 @@ err.ifengcloud.ifeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
+error-tracker.pages.dev
 error.videonow.ru
 errorreports.couponcabin.com
 errors.darkreader.app
