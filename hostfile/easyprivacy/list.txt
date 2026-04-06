@@ -8478,6 +8478,7 @@ cf.campagnes-france.com
 cf.overblog.com
 cfa.fidelity.com
 cfaexam.quantresear.ch
+cfapi.upstackdata.io
 cfb.8it.me
 cfpwood.actonservice.com
 cfrnyp.kars4kids.org
@@ -22288,6 +22289,7 @@ metrics.divosta.com
 metrics.diy.com
 metrics.diynetwork.com
 metrics.dockers.com
+metrics.documentfoundation.org
 metrics.dog.com
 metrics.dollar.com
 metrics.dollargeneral.com
