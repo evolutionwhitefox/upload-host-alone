@@ -5105,6 +5105,7 @@ analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
 analytics-hub.3plearning.com
@@ -7319,6 +7320,7 @@ bablace.com
 babyblissgifts.com
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
+backtension.com
 backupcat.com
 baconbags.com
 badgeboat.com
@@ -8159,6 +8161,8 @@ bzcuta.titleboxing.com
 bzlold.machi.to
 bznxqj.fiat.it
 bzqxze.remixshop.com
+bzr.openai.com
+bzrcdn.openai.com
 bzuaqh.roan.nl
 c-c-l.actonservice.com
 c-t.topya.com
@@ -17257,6 +17261,7 @@ internet.degoo.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
 intricateberry.com
+introjava.com
 intuitvisitorid.api.intuit.com
 inv.mksp.io
 inv3te.oui.sncf
@@ -23886,6 +23891,7 @@ naoforge.net.jumia.com.ng
 nappyattack.com
 nappyneck.com
 narc-dc.actonservice.com
+narrativ.com
 nasi.etherscan.com
 nasscom.epoise.com
 nasscomtest.epoise.com
@@ -34375,7 +34381,6 @@ stats.sebastiandombrowski.de
 stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
-stats.sender.net
 stats.sendngnt.com
 stats.senty.com.au
 stats.servicedesignjobs.com
