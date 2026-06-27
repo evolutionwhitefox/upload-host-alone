@@ -5256,6 +5256,7 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.distributednews.com
+analytics.divulg.org
 analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.editorialedomani.it
@@ -39337,6 +39338,7 @@ ts-analysis.shoalter.com
 ts.delfi.lt
 ts.popsugar.com
 ts.tradetracker.net
+tsa-f.webex.com
 tsa.taxslayer.com
 tsa.webex.com
 tsbkht.puritan.com
