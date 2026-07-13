@@ -5342,6 +5342,7 @@ analytics.idfnet.net
 analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
+analytics.infraloods.nl
 analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -8457,6 +8458,7 @@ cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
+cdn.prod.euid.eu
 cdn.ravm.tv
 cdn.sy-d.io
 cdn1.skrill.com
@@ -15001,6 +15003,7 @@ greencharge.actonservice.com
 greencolumnhealth.com
 greenjapan-cname.green-japan.com
 greif.actonservice.com
+gresrv.com
 grgnsht.nzxt.com
 gridbelow.com
 gripcorn.com
@@ -25247,6 +25250,7 @@ partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
 partplanes.com
 passivepolo.com
+passwordbyte.com
 pastoralroad.com
 patientpay.actonservice.com
 patrikios.openapp.link
@@ -25719,6 +25723,7 @@ play.wavelength.zone
 playbook.convio.com
 player-metrics.instaread.co
 player-telemetry.vimeo.com
+playerhappy.com
 playfulriver.com
 plbcsd.vidaxl.se
 plbusiness.samsung.com
