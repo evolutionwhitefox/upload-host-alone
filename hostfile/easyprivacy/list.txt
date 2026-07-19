@@ -7360,6 +7360,7 @@ banstat.nadavi.net
 bapages.carte-gr.total.fr
 barbarousbase.com
 barbershirts.com
+barcodetool.com
 barium.cheezdev.com
 barkfactor.com
 barqueue.com
@@ -40331,7 +40332,6 @@ verizon-branch.locationlabs.com
 verseballs.com
 versuswall.com
 vertexcs.actonservice.com
-verybark.com
 verybouncy.com
 vetsource.actonservice.com
 vewbab.entertainmentearth.com
