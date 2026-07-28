@@ -8384,6 +8384,7 @@ caringcast.com
 carlisleit.actonservice.com
 carloforward.com
 carolina.actonservice.com
+carpoolmatch.com
 carpoolqueen.com
 carreras.unisabana.edu.co
 cars.autopia.com.au
@@ -13629,6 +13630,7 @@ foodfunfestivals.com
 foodpackaging.kpfilms.com
 foodsouvlakibar.openapp.link
 foomjy.teacollection.com
+footballmedal.com
 forbes.realclearpolitics.com
 forbidden.actonservice.com
 forbin.actonservice.com
@@ -14367,6 +14369,7 @@ globale-analytics-sdk.global-e.com
 globaleloqua.americanexpress.com
 globallearningsystems.actonservice.com
 globalmed.actonservice.com
+globalorders.net
 globalsolutions.risk.lexisnexis.com
 globo-ab.globo.com
 gloomyseason.com
@@ -14929,6 +14932,7 @@ goat.hepicgamerz.com
 goat.nhimmeo.cf
 goat.skeetstats.xyz
 goat.tailspace.net
+goatcounter.ssp.sh
 goazlf.mytoys.de
 gobeyond.superiorgroup.com
 gocertiport.pearsonvue.com
@@ -24014,6 +24018,7 @@ netc.sfr.fr
 netinsight.actonservice.com
 netlify-rum.netlify.app
 netstat.yunnan.cn
+netsurfconsult.com
 network.cogentco.com
 network.conterra.com
 network.lightpathfiber.com
@@ -25806,6 +25811,7 @@ pnvnpy.scullyandscully.com
 pny.net.penny.de
 po.ponant.com
 pocketfaucet.com
+pocustrack.com
 poczta.carte-gr.total.fr
 poczta.happ.social
 pod.spoti.fi
