@@ -4180,6 +4180,7 @@ abncx.amv.fr
 abo.schibsted.no
 aboardamusement.com
 aboardlevel.com
+aboutcorgis.com
 abovechat.com
 abpwqf.lolaflora.com.mx
 abracon.actonservice.com
@@ -4958,6 +4959,7 @@ allthelogs.com
 alltypo.com
 alluringbucket.com
 allvideometrika.com
+allycoop.com
 almalasers.actonservice.com
 almondbuns.com
 alohamiles.com
@@ -5582,6 +5584,7 @@ analytics.tcm.com
 analytics.teamcovenant.com
 analytics.techem.com
 analytics.techem.de
+analytics.tempy.email
 analytics.test.cheggnet.com
 analytics.thehartford.com
 analytics.theinstitutes.org
@@ -5730,6 +5733,7 @@ analyzer.fc2.com
 analyzer2.fc2.com
 anapp.adobe.com
 ancientact.com
+andfauna.net
 andlache.com
 android.txtsmarter.com
 anesthesiaos.actonservice.com
@@ -7370,6 +7374,7 @@ barium.cheezdev.com
 barkfactor.com
 barqueue.com
 barracuda.carte-gr.total.fr
+barrelcider.com
 baseboosters.com
 basilfish.com
 basket.mondo.link
@@ -32817,11 +32822,13 @@ spea.eko.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
 specialscissors.com
+specialtypin.com
 spectacularstamp.com
 spectrum.gettyimages.com
 speedtrap.shopdirect.com
 speedyfox.io
 speedyrhino.co
+speedysteaks.com
 speee-ad.akamaized.net
 spellingthoughts.com
 spellknight.com
