@@ -1297,6 +1297,7 @@ inatv.pl
 indiaonclick.com
 indicedebonheur.com
 info-eastflirts.com
+info-ledger.org
 information-security.zzux.com
 information-update.dynamic-dns.net
 init.sh
@@ -1421,6 +1422,7 @@ leancoding.co
 lecap-services.fr
 ledampenergy.net
 ledg.erlive.at
+ledger-app.at
 ledger-lives-desktop.io
 ledger.com.ledgerlive.com.es
 legder.com-softwares.com
@@ -2588,6 +2590,7 @@ www.in-star.videoplaza.tv
 www.in-viacom18.videoplaza.tv
 www.indiaonclick.com
 www.info-eastflirts.com
+www.info-ledger.org
 www.information-security.zzux.com
 www.information-update.dynamic-dns.net
 www.intext.ero-advertising.com
@@ -2604,6 +2607,7 @@ www.koapkmobi.com
 www.lacmp.net
 www.layers.ero-advertising.com
 www.lecap-services.fr
+www.ledger-app.at
 www.livejasmin-hack.com
 www.livejasmin.academy
 www.livejasmin.cl
