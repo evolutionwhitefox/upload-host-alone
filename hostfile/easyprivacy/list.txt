@@ -17198,6 +17198,7 @@ infospot.roanokegroup.com
 infotc.readingpartners.org
 infotul.readingpartners.org
 ingest.coincodex.com
+ingest.in.signoz.cloud
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingesteer.services-prod.nsvcs.net
@@ -41066,6 +41067,7 @@ webmetrics.avaya.com
 webmetrics.perkinelmer.com
 webmetrics.turnwrench.com
 webmetrics.zebra.com
+webpagekit.com
 webpixel.smartmeapp.com
 webpushstat.api.engagelab.cc
 webs.hammacher.com
@@ -41160,6 +41162,7 @@ wepany.tripbeat.com
 wernerelectric.actonservice.com
 wesbgz.travel.co.jp
 westevents.presidio.com
+westsideglobe.com
 wevbgr.vidaxl.it
 wezbvq.heine-shop.nl
 wfmcgd.msccruzeiros.com.br
@@ -42307,6 +42310,7 @@ ydvsok.newbalance.jp
 yebvpc.gardengoodsdirect.com
 yefktd.avito.ru
 yehyqc.hugoboss.com
+yellowscissors.com
 yes88kks.infinityscans.net
 yesss-a1at.mno.link
 yewrcd.govoyages.com
@@ -42534,6 +42538,7 @@ zaiuhu.vacatia.com
 zakelijke-betalingsoplossingen.americanexpress.nl
 zakelijke-oplossingen-nld.americanexpress.nl
 zakelijkemarkt.vattenfall.nl
+zanyapps.com
 zatong.icaniwill.se
 zaventemdijleland.viessmann.be
 zbdtkk.totvs.com
