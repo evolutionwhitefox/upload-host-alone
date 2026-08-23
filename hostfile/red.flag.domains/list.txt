@@ -1897,6 +1897,7 @@ amazon-log.fr
 amazon-login-php.fr
 amazon-login-secure.fr
 amazon-login.fr
+amazon-mauritius.fr
 amazon-online.fr
 amazon-payement-remboursement.fr
 amazon-payment.fr
@@ -4976,6 +4977,7 @@ azurcasinoo.fr
 azurcasinoofficiel.fr
 azurcasinoonline.fr
 azure-casino.fr
+azure-secure-web.fr
 azurecasino-fr.fr
 azureva-vacances.fr
 azurslot.fr
@@ -11909,6 +11911,8 @@ crazyslotscasino.fr
 crazystar.fr
 crazytime-fr.fr
 crazytower-casino.fr
+crazytower-casinoo.fr
+crazytower-casinos.fr
 crazytower.fr
 crcindustriesfrancesas.fr
 crd-agricole.fr
@@ -13740,6 +13744,7 @@ eadzt.pm
 eartrumpet.fr
 easalia.fr
 eastpak-france.fr
+eastpakfrance.fr
 easucash.fr
 easycarfr.fr
 easycash-biganos.fr
@@ -16121,6 +16126,7 @@ france-connexion-support.fr
 france-contrav.fr
 france-cooperative-u.fr
 france-costco.fr
+france-cresus.fr
 france-critair.fr
 france-cybertek.fr
 france-diplomatie.fr
@@ -16477,6 +16483,7 @@ fzih.fr
 g-7-taxi-paris.fr
 g-7.fr
 g-7taxi.fr
+g-h-doutlet.fr
 g-interieurgouv.fr
 g-payment.fr
 g-shock-france.fr
@@ -16592,6 +16599,7 @@ gamevivefr.fr
 gaminocasino.fr
 gamonic.fr
 gandinet.fr
+gangsta-sino.fr
 gannifr.fr
 gannioutlet.fr
 gant-france.fr
@@ -18049,10 +18057,13 @@ hispin-sans-depot.fr
 hispin-securise.fr
 historique-prime.fr
 histovec-lbc.fr
+hit-n-spin.fr
 hitcasino.fr
 hitclubcasino.fr
 hiteck.fr
 hitetk.fr
+hitnspin-casino.fr
+hitnspincasino.fr
 hj81md-societegenerale.fr
 hjkld.yt
 hkdft.pm
@@ -21864,6 +21875,7 @@ lleboncoinpaiement.fr
 llemonde.fr
 llequipe.fr
 llhotmail.fr
+lliad-free.fr
 llkih.yt
 llonelyplanet.fr
 lloydfrance.fr
@@ -25152,6 +25164,7 @@ monrdvanesthesie.fr
 monrdvdanesthesie.fr
 monrdvdanesthsie.fr
 monreglement-antai.fr
+monrelais-aide.fr
 monrelaischronopost.fr
 monrelay-colis.fr
 monrelay-express.fr
@@ -26351,6 +26364,7 @@ nickel-espace-clients.fr
 nickel-one-app.fr
 nickel-service-appli.fr
 nickel-service.fr
+nickelcom.fr
 nickelcompte.fr
 nickelcomptes.fr
 nickelfrance.fr
@@ -26534,6 +26548,7 @@ ninho-billeterie.fr
 ninho-billetterie.fr
 ninho-officiel.fr
 ninite.re
+ninja-france.fr
 ninlay-en-ligne.fr
 ninlay-enligne.fr
 ninlay-officiel.fr
@@ -26884,6 +26899,7 @@ nutrimetic.fr
 nutroftotal.fr
 nuumericable.fr
 nuvaskin-officiel.fr
+nuxefrance.fr
 nuxitsupport.fr
 nv-casino-france.fr
 nv-casino-online.fr
@@ -27528,6 +27544,7 @@ outlet-newbalance.fr
 outlet-nike.fr
 outlet-paris.fr
 outlet-polene-paris.fr
+outlet-poleneparis.fr
 outlet-promos-2024.fr
 outlet-serravalle.fr
 outlet-shop.fr
@@ -27569,6 +27586,7 @@ outletprive.fr
 outletralphlauren.fr
 outletrl.fr
 outletsephora.fr
+outletshopping.fr
 outletstar.fr
 outletstock.fr
 outletugg.fr
@@ -34220,6 +34238,7 @@ simsinoscasinobonus.fr
 simsinoscasinofrance.fr
 simsinoscasinologin.fr
 simsinosfrance.fr
+simsinosofficiel.fr
 simsinosonline.fr
 simulateur-finances-publiques.fr
 sinamax.fr
@@ -34267,6 +34286,7 @@ skave-selection.fr
 skaydress.fr
 skaype.fr
 skechers-france.fr
+skechers-outlet.fr
 skechers-soldes.fr
 skechersfemme.fr
 skechersfr.fr
@@ -34655,6 +34675,7 @@ sneakers-supply.fr
 sneakers-world.fr
 sneakerscompany.fr
 sneakersdealer.fr
+sneakersdestock.fr
 sneakersdistrict.fr
 sneakersetjupes.fr
 sneakersfall.fr
@@ -36613,6 +36634,7 @@ tabac-authentification.fr
 tabac-confirme.fr
 tabac-coupon.fr
 tabac-shop.fr
+tabac-superu.fr
 tabac-verificationpcs.fr
 tabacenligne.fr
 tabacneosurf-verification.fr
@@ -39426,6 +39448,7 @@ westacescasino.fr
 westernunions.wf
 westfielde.fr
 westfieldfrance.fr
+westormed-paris-official.fr
 westoutlet.fr
 wetranfer.fr
 wetransf.fr
@@ -39560,6 +39583,7 @@ willbetcasino.fr
 williamhill-casino.fr
 williamhill-online.fr
 willscasino.fr
+wilson-france.fr
 wilsonsfrance.fr
 win-bay-casino.fr
 win-baycasino.fr
