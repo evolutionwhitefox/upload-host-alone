@@ -1164,7 +1164,6 @@ ads.queendom.com
 ads.ratemyprofessors.com
 ads.rcgroups.com
 ads.rdstore.com
-ads.realcastmedia.com
 ads.realcities.com
 ads.realmedia.de
 ads.rediff.com
@@ -4002,6 +4001,7 @@ ds.contextweb.com
 ds.onet.pl
 ds.serving-sys.com
 dsbzk.comfortykive.xyz
+dsfdsfxcfddsf.blob.core.windows.net
 dt.adsafeprotected.com
 dtcc.fr
 dub.mobileads.msn.com
@@ -11214,6 +11214,7 @@ www.clovercraftshop.com
 www.clownsong.com
 www.clubplanning.com
 www.coconutsport.com
+www.codeademy.com
 www.coin-ad.com
 www.coinad.com
 www.coinimp.com
@@ -12050,6 +12051,7 @@ www.officerreport.com
 www.ofimaniaweb.com
 www.ogopond.com
 www.oilbasics.com
+www.ointrest.com
 www.oix.com
 www.oletipmegroup.com
 www.olimpgokart.com
@@ -12413,6 +12415,7 @@ www.sq2trk2.com
 www.ssdede.com
 www.ssl2.in
 www.ssquire.plus.com
+www.stanthedonutman.com
 www.star-advertising.com
 www.startnewtab.com
 www.startupsforstartups.com
