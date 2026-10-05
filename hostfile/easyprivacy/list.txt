@@ -15446,7 +15446,6 @@ heatmap.support-inc.co.jp
 heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
-heimdall.hearstapps.com
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
@@ -33912,6 +33911,7 @@ st.nylinvestments.com
 st.onemazdausa.com
 st.picshuffle.com
 st.preciousamber.com
+st.putler.com
 st.s-bahn-muenchen-magazin.de
 st.sawlive.tv
 st.tulastudio.se
@@ -40950,6 +40950,7 @@ visitping.rossel.be
 visma.e-conomic.dk
 vismaturva.visma.fi
 visor.sberbank.ru
+visualcommservices.com
 visualscience.external.bbc.co.uk
 vitalimages.actonservice.com
 vitalmedia.actonservice.com
