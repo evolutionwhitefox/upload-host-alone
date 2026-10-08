@@ -7637,6 +7637,7 @@ bikesboard.com
 bilahh.feuvert.fr
 bilder11.markt.de
 bilingualgeek.com
+billionpet.com
 billowybead.com
 billowybelief.com
 billtable.com
@@ -7821,6 +7822,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 boss.openapp.link
@@ -8939,6 +8941,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-exchange.toast.com
 cm-in.americanexpress.com
@@ -25855,6 +25858,7 @@ pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixeledhub.com
 pixelmoonstudio.com
@@ -28473,7 +28477,6 @@ sdc.risikolebensversicherungen.com
 sdc2.credit-suisse.com
 sdcs.felissimo.co.jp
 sdjthl.tvguide.dk
-sdk-analytics-web.cloud.itau.com.br
 sdk.appsflyer.com
 sdlmaf.bestsecret.at
 sdome.underarmour.co.jp
@@ -34613,6 +34616,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
